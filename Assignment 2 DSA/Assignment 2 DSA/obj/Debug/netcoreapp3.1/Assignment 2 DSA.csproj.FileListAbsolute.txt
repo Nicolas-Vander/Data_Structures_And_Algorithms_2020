@@ -1,0 +1,11 @@
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\bin\Debug\netcoreapp3.1\Assignment 2 DSA.exe
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\bin\Debug\netcoreapp3.1\Assignment 2 DSA.deps.json
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\bin\Debug\netcoreapp3.1\Assignment 2 DSA.runtimeconfig.json
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\bin\Debug\netcoreapp3.1\Assignment 2 DSA.runtimeconfig.dev.json
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\bin\Debug\netcoreapp3.1\Assignment 2 DSA.dll
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\bin\Debug\netcoreapp3.1\Assignment 2 DSA.pdb
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\obj\Debug\netcoreapp3.1\Assignment 2 DSA.csprojAssemblyReference.cache
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\obj\Debug\netcoreapp3.1\Assignment 2 DSA.AssemblyInfoInputs.cache
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\obj\Debug\netcoreapp3.1\Assignment 2 DSA.AssemblyInfo.cs
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\obj\Debug\netcoreapp3.1\Assignment 2 DSA.dll
+C:\Users\Nicolas\Desktop\Assignment 2 DSA\Assignment 2 DSA\obj\Debug\netcoreapp3.1\Assignment 2 DSA.pdb
